@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: youbot_launch
+    relative_path: model/youbot_arm_lidar.urdf.xacro
+  SRDF:
+    relative_path: config/youbot.srdf
+  CONFIG:
+    author_name: Egor
+    author_email: egoros97@yandex.ru
+    generated_timestamp: 1523643084
